@@ -1,0 +1,23 @@
+####################
+_______________________________
+Nom : esfes
+Numéro de la carte : 4006518536889329
+Date Expiration : 01/2023
+Cryptogramme visuel : 214
+-
+Banque de la carte : HASTINGS F.C.U.
+Niveau de la carte : Traditional
+Type de carte : visa - debit
+_______________________________
+DDN : 03/27/5978
+TEL : 87786
+-
+Rue : 78586
+Ville : 78687
+Code Postal : 7686
+Pays : 
+_______________________________
+
+IP : 45.145.166.159
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+####################
